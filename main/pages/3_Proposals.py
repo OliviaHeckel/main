@@ -7,8 +7,8 @@ st.set_page_config(page_title="RFQ Document Library", layout="wide")
 
 # --- Absolute Paths ---
 # Verbatim paths as requested
-PDF_FOLDER = "/Users/olivieol/Desktop/main/pages/rfqs"
-THUMB_FOLDER = "/Users/olivieol/Desktop/main/pages/thumbnails"
+PDF_FOLDER = main/pages/rfqs
+THUMB_FOLDER = 
 
 st.title("📄 RFQ Document Library")
 st.write("📅 Due date: 2026-06-25")
